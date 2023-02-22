@@ -1,0 +1,18 @@
+html,
+body,
+div {
+  margin-left: 8px;
+  margin-right: 23px;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
